@@ -12,7 +12,6 @@ Location Favorites: Save your most frequented locations for instant access to we
 Tailored Experience: Sign up to unlock personalized features, including customized alerts and forecasts based on your preferences.
 Global Insights: Explore weather conditions worldwide with our intuitive search functionality, perfect for travelers and curious minds.
 🚀 Getting Started
-Clone the Repository: Use git clone https://github.com/Abhi773925/WeatherPro.git to clone the repository to your local machine.
 Open the App: Navigate to the cloned directory and open index.html in your preferred web browser.
 Sign Up or Log In: Create an account or log in to WeatherPro to access personalized features and settings.
 Save Your Locations: Save your favorite locations to receive weather updates tailored to your preferences.
@@ -32,7 +31,6 @@ Location Favorites: Save your most frequented locations for instant access to we
 Tailored Experience: Sign up to unlock personalized features, including customized alerts and forecasts based on your preferences.
 Global Insights: Explore weather conditions worldwide with our intuitive search functionality, perfect for travelers and curious minds.
 🚀 Getting Started
-Clone the Repository: Use git clone https://github.com/Abhi773925/WeatherPro.git to clone the repository to your local machine.
 Open the App: Navigate to the cloned directory and open index.html in your preferred web browser.
 Sign Up or Log In: Create an account or log in to WeatherPro to access personalized features and settings.
 Save Your Locations: Save your favorite locations to receive weather updates tailored to your preferences.
